@@ -176,12 +176,6 @@ Our system uses four AI agents to analyze cognitive performance:
 3. **Focus Agent** - Analyzes semantic organization and category switching
 4. **Clarity Agent** - Evaluates speech quality and fluency
 
-## 🔬 Research & Validation
-
-- **1,200+ participants** across 5 age cohorts
-- **94% correlation** with comprehensive neuropsychological batteries
-- **Patent-pending** multi-dimensional scoring algorithm
-- **Published results** (manuscripts in review)
 
 ## 💻 Installation
 
