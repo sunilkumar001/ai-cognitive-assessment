@@ -1,5 +1,5 @@
 # ai-cognitive-assessment
-# 🧠 AI-Enhanced Cognitive Assessment System
+# 🧠 Agentic AI-Enhanced Cognitive Assessment System
 
 ## 🚀 Overview
 
