@@ -4,6 +4,10 @@
 # Core processing
 numpy>=1.20.0
 scipy>=1.7.0
+fastapi
+uvicorn
+
+
 
 # For future audio processing integration
 # Uncomment when adding speech-to-text
