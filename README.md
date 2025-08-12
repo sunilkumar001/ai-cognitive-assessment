@@ -1,7 +1,7 @@
 # 🧠 Agentic AI-Enhanced Cognitive Assessment System
 ![tests](https://github.com/jkevin2010/ai-cognitive-assessment/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
-![License](https://img.shields.io/github/license/jkevin2010/ai-cognitive-assessment)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/jkevin2010/ai-cognitive-assessment)
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jkevin2010/ai-cognitive-assessment)
 
