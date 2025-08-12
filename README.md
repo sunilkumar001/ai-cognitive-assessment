@@ -38,6 +38,7 @@ results = analyzer.analyze_speech(text)
 report = analyzer.generate_report(results)
 print(report)
 ```
+> 📄 **API Documentation:** See [docs/API.md](docs/API.md) for request/response formats and usage notes.
 
 ### Example Output
 
