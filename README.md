@@ -1,5 +1,9 @@
 # 🧠 Agentic AI-Enhanced Cognitive Assessment System
 ![tests](https://github.com/jkevin2010/ai-cognitive-assessment/actions/workflows/tests.yml/badge.svg)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![License](https://img.shields.io/github/license/jkevin2010/ai-cognitive-assessment)
+![Last Commit](https://img.shields.io/github/last-commit/jkevin2010/ai-cognitive-assessment)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jkevin2010/ai-cognitive-assessment)
 
 
 ## 🚀 Overview
@@ -61,10 +65,11 @@ Our system uses four AI agents to analyze cognitive performance:
 
 ## 🔬 Research & Validation
 
-- **1,200+ participants** across 5 age cohorts
+- **Simulated participant cases** across multiple age cohorts for beta demonstration
+- Designed to replicate key patterns observed in real clinical datasets
 - **94% correlation** with comprehensive neuropsychological batteries
-- **Patent-pending** multi-dimensional scoring algorithm
-- **Published results** (manuscripts in review)
+- **Patent-pending** agent-based scoring algorithm
+- Clinical-grade version is currently undergoing validation in upcoming pilot studies
 
 ## 💻 Installation
 
