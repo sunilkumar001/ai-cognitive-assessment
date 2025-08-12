@@ -1,5 +1,5 @@
 # 🧠 Agentic AI-Enhanced Cognitive Assessment System
-![tests](https://github.com/YOUR_USERNAME/ai-cognitive-assessment/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/jkevin2010/ai-cognitive-assessment/actions/workflows/tests.yml/badge.svg)
 
 ## 🚀 Overview
 
