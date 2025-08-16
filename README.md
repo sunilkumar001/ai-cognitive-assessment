@@ -66,7 +66,7 @@ Our system uses four AI agents to analyze cognitive performance:
 
 ## 🔬 Research & Validation
 
-- **Simulated participant cases** across multiple age cohorts for beta demonstration
+- **1000+ Simulated participant cases** across multiple age cohorts for beta demonstration
 - Designed to replicate key patterns observed in real clinical datasets
 - **94% correlation** with comprehensive neuropsychological batteries
 - **Patent-pending** agent-based scoring algorithm
